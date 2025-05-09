@@ -7,6 +7,6 @@
 - 축사 자동 배급, 축사 내 이상기온 등을 감지해 푸시 알림으로 확인할 수 있어요.
 
 ### 업무 분담
-- <code>AI</code>
-- <code>Frontend</code>
-- <code>Backend</code>
+- <code>AI</code> <a href="https://github.com/user00144">강성은</a>
+- <code>Frontend</code> <a href="https://github.com/yummjin">한유진</a>
+- <code>Backend</code> <a href="https://github.com/2heunxun">유승헌</a> <a href="https://github.com/l33gn21">이건아</a>
