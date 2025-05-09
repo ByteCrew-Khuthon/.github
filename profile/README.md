@@ -6,7 +6,28 @@
 - 질병이 발생하는 지역을 지도로 확인할 수 있어요.
 - 축사 자동 배급, 축사 내 이상기온 등을 감지해 푸시 알림으로 확인할 수 있어요.
 
-### 업무 분담
-- <code>AI</code> <a href="https://github.com/user00144">강성은</a>
-- <code>Frontend</code> <a href="https://github.com/yummjin">한유진</a>
-- <code>Backend</code> <a href="https://github.com/2heunxun">유승헌</a> <a href="https://github.com/l33gn21">이건아</a>
+### Contributors
+
+  <table>
+    <thead>
+      <tr>
+        <th>AI Engineer</th>
+        <th colspan="2">Server Developer</th>
+        <th>Client Developer</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/120700820?v=4" width="120px"/></td>
+        <td><img src="https://avatars.githubusercontent.com/u/168928296?v=4" width="120px"/></td>
+        <td><img src="https://avatars.githubusercontent.com/u/128562648?v=4" width="120px"/></td>
+        <td><img src="https://avatars.githubusercontent.com/u/128016678?v=4" width="120px"/></td>
+      </tr>
+        <tr>
+        <td align="center"><a href="https://github.com/user00144">강성은</a></td>
+        <td align="center"><a href="https://github.com/2heunxun">유승헌</a></td>
+        <td align="center"><a href="https://github.com/l33gn21">이건아</a></td>
+        <td align="center"> <a href="https://github.com/yummjin">한유진</a></td>
+      </tr>
+    </tbody>
+  </table>
